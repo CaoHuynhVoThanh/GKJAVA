@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DanhSachNhapHang>
+	<SanPham id="SP00001">
+		<tenSanPham>Coca Cola</tenSanPham>
+		<giaNhap>8000</giaNhap>
+		<soLuong>23</soLuong>
+		<nguonHang>CocaCola</nguonHang>
+		<thoiGian>2023-09-24</thoiGian>
+	</SanPham>
+	<SanPham id="SP00002">
+		<tenSanPham>Pepsi</tenSanPham>
+		<giaNhap>9000</giaNhap>
+		<soLuong>31</soLuong>
+		<nguonHang>Pepsico</nguonHang>
+		<thoiGian>2023-11-20</thoiGian>
+	</SanPham>
+	<SanPham id="SP00003">
+		<tenSanPham>Bánh su kem</tenSanPham>
+		<giaNhap>15000</giaNhap>
+		<soLuong>13</soLuong>
+		<nguonHang>Tiệm bánh Gia Phúc</nguonHang>
+		<thoiGian>2020-01-06</thoiGian>
+	</SanPham>
+	<SanPham id="SP00004">
+		<tenSanPham>Bánh tráng muối</tenSanPham>
+		<giaNhap>12000</giaNhap>
+		<soLuong>9</soLuong>
+		<nguonHang>Lò bánh tráng Hoàng Anh</nguonHang>
+		<thoiGian>2019-12-27</thoiGian>
+	</SanPham>
+	<SanPham id="SP00005">
+		<tenSanPham>Kem Yumi</tenSanPham>
+		<giaNhap>9000</giaNhap>
+		<soLuong>9</soLuong>
+		<nguonHang>Kem Pumo</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00006">
+		<tenSanPham>Redbull</tenSanPham>
+		<giaNhap>10000</giaNhap>
+		<soLuong>21</soLuong>
+		<nguonHang>CTY Y</nguonHang>
+		<thoiGian>2019-05-11</thoiGian>
+	</SanPham>
+	<SanPham id="SP00007">
+		<tenSanPham>Aquafina</tenSanPham>
+		<giaNhap>7000</giaNhap>
+		<soLuong>34</soLuong>
+		<nguonHang>CTY Y</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00008">
+		<tenSanPham>C2 vị chanh</tenSanPham>
+		<giaNhap>9000</giaNhap>
+		<soLuong>15</soLuong>
+		<nguonHang>CTY X</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00009">
+		<tenSanPham>C2 vị đào</tenSanPham>
+		<giaNhap>9000</giaNhap>
+		<soLuong>15</soLuong>
+		<nguonHang>CTY Y</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00010">
+		<tenSanPham>C2 vị vải</tenSanPham>
+		<giaNhap>9000</giaNhap>
+		<soLuong>15</soLuong>
+		<nguonHang>CTY X</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00011">
+		<tenSanPham>Bánh Oshi tôm cay</tenSanPham>
+		<giaNhap>4300</giaNhap>
+		<soLuong>11</soLuong>
+		<nguonHang>CTY Z</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00012">
+		<tenSanPham>Bánh Oshi mực Philipin</tenSanPham>
+		<giaNhap>3800</giaNhap>
+		<soLuong>14</soLuong>
+		<nguonHang>CTY Z</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00013">
+		<tenSanPham>Bánh Oshi tôm cay</tenSanPham>
+		<giaNhap>4300</giaNhap>
+		<soLuong>11</soLuong>
+		<nguonHang>CTY Z</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00014">
+		<tenSanPham>Bỏng ngô phô mai</tenSanPham>
+		<giaNhap>6500</giaNhap>
+		<soLuong>8</soLuong>
+		<nguonHang>CTY Z</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00015">
+		<tenSanPham>Bánh phồng tôm</tenSanPham>
+		<giaNhap>4300</giaNhap>
+		<soLuong>13</soLuong>
+		<nguonHang>CTY Z</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00016">
+		<tenSanPham>Vở 4 ô ly</tenSanPham>
+		<giaNhap>7500</giaNhap>
+		<soLuong>20</soLuong>
+		<nguonHang>CTY A</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00017">
+		<tenSanPham>Bút bi</tenSanPham>
+		<giaNhap>3500</giaNhap>
+		<soLuong>25</soLuong>
+		<nguonHang>CTY A</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00018">
+		<tenSanPham>Bút chì</tenSanPham>
+		<giaNhap>7500</giaNhap>
+		<soLuong>23</soLuong>
+		<nguonHang>CTY A</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00019">
+		<tenSanPham>Tẩy</tenSanPham>
+		<giaNhap>5200</giaNhap>
+		<soLuong>13</soLuong>
+		<nguonHang>CTY A</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00020">
+		<tenSanPham>Hộp khăn ướt 20 tờ</tenSanPham>
+		<giaNhap>15000</giaNhap>
+		<soLuong>11</soLuong>
+		<nguonHang>CTY B</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00021">
+		<tenSanPham>Khẩu trang 15 cái</tenSanPham>
+		<giaNhap>30000</giaNhap>
+		<soLuong>15</soLuong>
+		<nguonHang>CTY B</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00022">
+		<tenSanPham>Dầu gội Sunsill</tenSanPham>
+		<giaNhap>65000</giaNhap>
+		<soLuong>10</soLuong>
+		<nguonHang>CTY C</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00023">
+		<tenSanPham>Sữa tắm Lifebouy</tenSanPham>
+		<giaNhap>75000</giaNhap>
+		<soLuong>4</soLuong>
+		<nguonHang>CTY C</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00024">
+		<tenSanPham>Sữa rửa mặt</tenSanPham>
+		<giaNhap>43000</giaNhap>
+		<soLuong>15</soLuong>
+		<nguonHang>CTY C</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00025">
+		<tenSanPham>Nước tẩy trang</tenSanPham>
+		<giaNhap>13000</giaNhap>
+		<soLuong>15</soLuong>
+		<nguonHang>CTY C</nguonHang>
+		<thoiGian>2018-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00026">
+		<tenSanPham>Bánh mỳ chà bông, chả lụa</tenSanPham>
+		<giaNhap>13000</giaNhap>
+		<soLuong>15</soLuong>
+		<nguonHang>CTY D</nguonHang>
+		<thoiGian>2024-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00027">
+		<tenSanPham>Cơm dương châu</tenSanPham>
+		<giaNhap>35000</giaNhap>
+		<soLuong>10</soLuong>
+		<nguonHang>CTY D</nguonHang>
+		<thoiGian>2024-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00028">
+		<tenSanPham>Mỳ ý</tenSanPham>
+		<giaNhap>30000</giaNhap>
+		<soLuong>10</soLuong>
+		<nguonHang>CTY D</nguonHang>
+		<thoiGian>2024-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00029">
+		<tenSanPham>Bánh bao trứng cút</tenSanPham>
+		<giaNhap>20000</giaNhap>
+		<soLuong>10</soLuong>
+		<nguonHang>CTY D</nguonHang>
+		<thoiGian>2024-07-04</thoiGian>
+	</SanPham>
+	<SanPham id="SP00030">
+		<tenSanPham>Cơm cuộn</tenSanPham>
+		<giaNhap>15000</giaNhap>
+		<soLuong>13</soLuong>
+		<nguonHang>CTY D</nguonHang>
+		<thoiGian>2024-07-04</thoiGian>
+	</SanPham>
+</DanhSachNhapHang>

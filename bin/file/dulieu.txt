@@ -1,0 +1,12 @@
+=============3 ELEVEN MARKET ============
+Số 12 Nguyễn Văn Bảo, Phường 4, Gò Vấp, Hồ Chí Minh
+============ HÓA ĐƠN BÁN HÀNG ============
+Thời gian: 13/11/2024 07:37
+Nhân viên thực hiện: Admin
+===========================
+Mã SP      Tên SP               Số lượng   Giá        Thành tiền
+SP00001    Coca Cola            7          104000.00  728000.00 
+===========================
+Tổng số sản phẩm: 7
+Tổng tiền: 728000.00
+===========================
